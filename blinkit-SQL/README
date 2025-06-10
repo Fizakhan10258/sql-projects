@@ -1,0 +1,20 @@
+steps:
+requirement gathering
+data connection
+data cleaning
+
+calulations:
+
+total sales
+avg sales
+number of items
+avg rating
+
+total sales by fat content 
+total sales by item type
+fat content by outlet for total sales
+total sales by outlet establishment
+
+sales by outlet size 
+sales by outlet location
+all matrics by outlet type
